@@ -1,0 +1,16 @@
+ .ball-style {
+            width: 100px;
+            height: 100px;
+            border-radius: 100%;
+            position: absolute;
+        }
+        #ball {
+            background-color: rgb(16, 218, 83);
+            left: 0;
+            top: 50px;
+        }
+        #ball2 {
+            background-color: rgb(218, 16, 16);
+            left: 1300px;
+            top: 200px;
+        }
